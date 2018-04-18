@@ -1,7 +1,6 @@
 # Tic Tac Toe
 
-
-Tic Tac Toe game for iOS integrated with the Apptimize SDK
+This was a coding challenge where I had to integrate a mobile application with the Apptimize SDK. Created a basic tic tac toe game. 
 
 I decided to use Apptimize to run an experiment to see whether users like a blue (original) or black (variant) background. To do this, I started by adding the SDK to my native iOS project. From there, results were then sent to the Apptimize dashboard, where I'll be able to determine which option ended up a user favourite based on user retention and engagement. 
 
