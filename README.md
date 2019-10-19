@@ -1,4 +1,4 @@
-# A/B Testing Moble TicTacToe Game with Apptimize SDK
+# A/B Testing TicTacToe Game with Apptimize SDK
 
 ## Intro
 
