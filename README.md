@@ -1,5 +1,5 @@
 # A/B Testing TicTacToe Game with Apptimize SDK
-Coding challenge where I had to **integrate a mobile application with the Apptimize SDK**. **I created a basic TicTacToe game with Swift and XCode** and then followed the software development guide from [Apptimize SDK Download and Documentation](https://apptimize.com/docs/sdk-information.html). 
+Coding challenge where I had to **integrate a mobile application with the Apptimize SDK**. **Developed a basic TicTacToe game with Swift and XCode** and implemented the software development guide from [Apptimize SDK Download and Documentation](https://apptimize.com/docs/sdk-information.html). 
 
 ## Apptimize
 
